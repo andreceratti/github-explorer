@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/Wh3jjrl" alt="André Ceratti da Rocha" />
+  <img src="https://i.imgur.com/Wh3jjrl.png" alt="André Ceratti da Rocha" />
 </p>
 
 # Github Explorer
